@@ -156,6 +156,10 @@ for example client / server or pub / sub systems
 - MQTT
 - COAP
 - AMQP
+- TCP/IP
+- WebSocket
+- OPC-UA/DA
+- Modbus
 
 ### Wireless Technologies
 
@@ -163,6 +167,10 @@ for example client / server or pub / sub systems
 - BLE
 - WIFI
 - NFC
+- eLTE
+- NB-IoT
+- 4G/5G
+- Zigbee
   Industrial protocols are not mandatory but they are nice to have and to understand how they work and if you want to work in the
   IIOT space then they will become very important and give you a headstart.
 
@@ -234,4 +242,3 @@ who enter the cloud and iot space to provide premade services to accelarate your
 ### Here is a High Level Mindmap 🗺️:
 
 !["IoT Application Developer"](App-Software.JPG)
-# iot_roadmap_develop
