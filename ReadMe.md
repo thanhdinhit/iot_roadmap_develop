@@ -242,3 +242,10 @@ who enter the cloud and iot space to provide premade services to accelarate your
 ### Here is a High Level Mindmap 🗺️:
 
 !["IoT Application Developer"](App-Software.JPG)
+
+#### Some image overview
+!["IoT Application Developer"](overview_01.png)
+!["IoT Application Developer"](model-cloud-device.png)
+!["IoT Application Developer"](iot-patterns.png)
+!["IoT Application Developer"](communication-cloud-edge.png)
+!["IoT Application Developer"](MEC.png)
